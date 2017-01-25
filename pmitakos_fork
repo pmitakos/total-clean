@@ -1,7 +1,7 @@
 {
   "alfredtheme" : {
     "result" : {
-      "textSpacing" : 5,
+      "textSpacing" : 6,
       "subtext" : {
         "size" : 13,
         "colorSelected" : "#000000C4",
